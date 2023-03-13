@@ -1,1 +1,1 @@
-This is version of branch master
+This is version of branch master but now including in new branch
